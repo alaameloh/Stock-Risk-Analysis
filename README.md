@@ -25,4 +25,4 @@ The market factors we have (for the period: 23/01/2009 - 22/01/2014) are:
 - The return of crude oil
 - The return of treasury bonds
 
-After the model is built, the MCS (Monte Carlo Simulation) is run 10.000 times. In this way, we can exploit the output obtained probability distribution in order to determine the VaR 5% (Value at Risk: the 5th percentile of the losses).
+After the model is built, the MCS (Monte Carlo Simulation) is run 10.000 times. In this way, we can exploit the output obtained probability distribution in order to determine the VaR 5% (Value at Risk: the 5th percentile of the losses)..
